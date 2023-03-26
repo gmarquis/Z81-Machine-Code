@@ -1,1 +1,1 @@
-# z80
+# z80 machine code
