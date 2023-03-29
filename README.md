@@ -1,1 +1,1 @@
-# z80 machine code
+# ZX Spectrum machine code
